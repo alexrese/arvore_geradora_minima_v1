@@ -1,0 +1,27 @@
+E:\Meus Documentos\Dropbox\Mestrado\Dicertação\projeto\Program\Program\bin\Debug\Program.exe.config
+E:\Meus Documentos\Dropbox\Mestrado\Dicertação\projeto\Program\Program\bin\Debug\Program.exe
+E:\Meus Documentos\Dropbox\Mestrado\Dicertação\projeto\Program\Program\bin\Debug\Program.pdb
+E:\Meus Documentos\Dropbox\Mestrado\Dicertação\projeto\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+E:\Meus Documentos\Dropbox\Mestrado\Dicertação\projeto\Program\Program\obj\Debug\Program.exe
+E:\Meus Documentos\Dropbox\Mestrado\Dicertação\projeto\Program\Program\obj\Debug\Program.pdb
+E:\Meus Documentos\Dropbox\Mestrado\Dissertação\projeto\Program\Program\bin\Debug\Program.exe.config
+E:\Meus Documentos\Dropbox\Mestrado\Dissertação\projeto\Program\Program\obj\Debug\Program.exe
+E:\Meus Documentos\Dropbox\Mestrado\Dissertação\projeto\Program\Program\obj\Debug\Program.pdb
+E:\Meus Documentos\Dropbox\Mestrado\Dissertação\projeto\Program\Program\bin\Debug\Program.exe
+E:\Meus Documentos\Dropbox\Mestrado\Dissertação\projeto\Program\Program\bin\Debug\Program.pdb
+E:\Meus Documentos\Dropbox\Mestrado\Dissertação\projeto\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\alexrese\Dropbox\Mestrado\Dissertação\projeto\Program\Program\bin\Debug\Program.exe.config
+C:\Users\alexrese\Dropbox\Mestrado\Dissertação\projeto\Program\Program\obj\Debug\Program.exe
+C:\Users\alexrese\Dropbox\Mestrado\Dissertação\projeto\Program\Program\obj\Debug\Program.pdb
+C:\Users\Alex Rese\Dropbox\Mestrado\Dissertação\projeto\Program\Program\bin\Debug\Program.exe.config
+C:\Users\Alex Rese\Dropbox\Mestrado\Dissertação\projeto\Program\Program\obj\Debug\Program.exe
+C:\Users\Alex Rese\Dropbox\Mestrado\Dissertação\projeto\Program\Program\obj\Debug\Program.pdb
+C:\Users\Alex Rese\Dropbox\Mestrado\Dissertação\projeto\Program\Program\bin\Debug\Program.exe
+C:\Users\Alex Rese\Dropbox\Mestrado\Dissertação\projeto\Program\Program\bin\Debug\Program.pdb
+C:\Users\Alex Rese\Dropbox\Mestrado\Dissertação\projeto\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\Alex Rese\Dropbox\Mestrado - IA\Dissertação\projeto\Program\Program\bin\Debug\Program.exe.config
+C:\Users\Alex Rese\Dropbox\Mestrado - IA\Dissertação\projeto\Program\Program\obj\Debug\Program.exe
+C:\Users\Alex Rese\Dropbox\Mestrado - IA\Dissertação\projeto\Program\Program\obj\Debug\Program.pdb
+C:\Users\Alex Rese\Dropbox\Mestrado - IA\Dissertação\projeto\Program\Program\bin\Debug\Program.exe
+C:\Users\Alex Rese\Dropbox\Mestrado - IA\Dissertação\projeto\Program\Program\bin\Debug\Program.pdb
+C:\Users\Alex Rese\Dropbox\Mestrado - IA\Dissertação\projeto\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
